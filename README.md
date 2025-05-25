@@ -1,2 +1,0 @@
-# coldfusion-cms
-Simple ColdFusion
